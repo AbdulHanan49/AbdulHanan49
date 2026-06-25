@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/02c1989a-73e7-4ad2-9df4-110b38f82039" width="90%"/>
+<img src="https://github.com/user-attachments/assets/1a17d26c-bf53-47a8-abae-67abce31f73a" width="90%"/>
 </div>
 
 <div align="center">
@@ -8,18 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=06CDFF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Software+Engineer;React+18+%C2%B7+FastAPI+%C2%B7+TypeScript;Building+Production+SaaS;KCube+Solutions+%C2%B7+Lahore%2C+PK" alt="Typing Animation" />
   </h3>
 </div>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1a17d26c-bf53-47a8-abae-67abce31f73a" width="85%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulHanan49&label=Profile%20Views&color=0e75b6&style=flat"/>  
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/AbdulHanan49?label=Followers&style=social"/> 
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/AbdulHanan49?label=Stars&style=social"/>  
-</p>
 
 ---
 
@@ -33,8 +21,13 @@ I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't ju
 
 ---
 
-*Got an idea to build, a role to fill, or just want to talk tech?*
-*Reach out at **[hananaslam.com](https://hananaslam.com)** or let's connect on **[LinkedIn](https://linkedin.com/in/hanan-aslam-b6160723a)** — I'd love to hear from you* 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulHanan49&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/AbdulHanan49?label=Followers&style=for-the-badge&color=0e75b6"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/AbdulHanan49?label=Stars&style=for-the-badge&color=0e75b6"/>
+</p>
 
 ---
 
@@ -95,17 +88,14 @@ I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't ju
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulHanan49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHanan49&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulHanan49&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulHanan49&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHanan49&theme=tokyonight" alt="Contribution Graph" />
 </p>
@@ -114,21 +104,22 @@ I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't ju
 
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://hananaslam.com"><img src="https://img.shields.io/badge/Portfolio-hananaslam.com-7856FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  &nbsp;
   <a href="https://linkedin.com/in/hanan-aslam-b6160723a"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Hanan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
   <a href="mailto:hananaslam90@gmail.com"><img src="https://img.shields.io/badge/Email-hananaslam90%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
 <p align="center">
-  <i>💡 Building something ambitious or looking for a full-stack engineer who ships end-to-end? Let's talk.</i>
+  <b>💡 Got an idea to build, a role to fill, or just want to talk tech?</b><br/>
+  <i>I'm always open to exciting conversations — reach out and let's make something great together.</i>
 </p>
 
 <p align="center">
   <a href="https://hananaslam.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-7856FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/→%20Visit%20hananaslam.com-7856FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
