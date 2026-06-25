@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Abdul Hanan</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=06CDFF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Software+Engineer;React+18+%C2%B7+FastAPI+%C2%B7+TypeScript;Building+Production+SaaS;KCube+Solutions+%C2%B7+Lahore%2C+PK" alt="Typing Animation" />
-  <br/><br/>
   <img src="https://github.com/user-attachments/assets/1a17d26c-bf53-47a8-abae-67abce31f73a" width="90%"/>
 </div>
 
