@@ -25,13 +25,14 @@
 
 ## 🚀 About Me
 
-- 🏢 **Full-Stack Engineer @ KCube Solutions** — sole engineer on **MixClip**, a production AI video editing SaaS.
-- 💼 Previously @ **Visnext Software Solutions** — rebuilt Job Wallet SaaS frontend and engineered the Django REST backend.
+> **Most developers write features. I ship products.**
+> As a sole engineer, I've taken SaaS products from blank repo to live users — owning every layer: API design, database schema, frontend architecture, CI/CD, and cloud deployment.
+
+- 🏢 **Full-Stack Engineer @ KCube Solutions** — sole engineer on **MixClip**, a production AI video editing SaaS built with React 18, FastAPI, TypeScript & Azure.
+- 💼 Previously @ **Visnext Software Solutions** — rebuilt Job Wallet's full frontend (Vue 3 / Quasar) and engineered 10+ Django REST APIs with Celery, Redis & Stripe billing.
 - 🎓 **BS Computer Science — FAST-NUCES**, Class of 2024, Lahore.
-- 🔧 I specialize in building **end-to-end SaaS** products from database to deployment.
-- 📈 **14+ months** production experience · **3+ SaaS products** shipped · **24+ technologies**.
-- 🌐 Portfolio: **[hananaslam.com](https://hananaslam.com)**
-- 💎 Reach me at **hananaslam90@gmail.com**
+- 📈 **14+ months** production experience · **3+ SaaS products** shipped · **24+ technologies** in production.
+- 💬 Ask me about **React 18, FastAPI, TypeScript, Django REST, PostgreSQL, Docker, Azure**.
 
 ---
 
@@ -105,7 +106,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulHanan49&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulHanan49&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
