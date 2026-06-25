@@ -25,14 +25,16 @@
 
 ## 🚀 About Me
 
-> **Most developers write features. I ship products.**
-> As a sole engineer, I've taken SaaS products from blank repo to live users — owning every layer: API design, database schema, frontend architecture, CI/CD, and cloud deployment.
+Full-Stack Software Engineer from **Lahore, Pakistan** — currently the **sole engineer at KCube Solutions**, building MixClip, an AI-powered video editing SaaS. I own the entire product: FastAPI backends, PostgreSQL schemas, React 18 frontends, and Azure deployments. Previously at **Visnext Software Solutions**, where I rebuilt Job Wallet's frontend and shipped 10+ production REST APIs with Celery, Redis & Stripe. FAST-NUCES CS graduate, Class of 2024.
 
-- 🏢 **Full-Stack Engineer @ KCube Solutions** — sole engineer on **MixClip**, a production AI video editing SaaS built with React 18, FastAPI, TypeScript & Azure.
-- 💼 Previously @ **Visnext Software Solutions** — rebuilt Job Wallet's full frontend (Vue 3 / Quasar) and engineered 10+ Django REST APIs with Celery, Redis & Stripe billing.
-- 🎓 **BS Computer Science — FAST-NUCES**, Class of 2024, Lahore.
-- 📈 **14+ months** production experience · **3+ SaaS products** shipped · **24+ technologies** in production.
-- 💬 Ask me about **React 18, FastAPI, TypeScript, Django REST, PostgreSQL, Docker, Azure**.
+| | |
+|---|---|
+| 🔭 **Currently** | Building MixClip AI SaaS @ KCube Solutions |
+| 🛠️ **Stack** | React 18 · FastAPI · TypeScript · Vue 3 · PostgreSQL · Docker · Azure |
+| 🎓 **Education** | BS Computer Science — FAST-NUCES, 2024 |
+| 📊 **Stats** | 14+ months production · 3+ SaaS products · 24+ technologies |
+| 💬 **Ask me about** | React, FastAPI, TypeScript, Django REST, cloud infra |
+| 📫 **Contact** | hananaslam90@gmail.com |
 
 ---
 
@@ -104,14 +106,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulHanan49&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📊 Contribution Graph
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHanan49&theme=tokyonight" alt="Contribution Graph" />
 </p>
