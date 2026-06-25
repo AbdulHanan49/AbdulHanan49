@@ -5,6 +5,7 @@
   <img src="https://github.com/user-attachments/assets/1a17d26c-bf53-47a8-abae-67abce31f73a" width="90%"/>
 </div>
 
+---
 
 ## 👨‍💻 About Me
 
@@ -88,6 +89,12 @@ I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't ju
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHanan49&theme=tokyonight" alt="Contribution Graph" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulHanan49/AbdulHanan49/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulHanan49/AbdulHanan49/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AbdulHanan49/AbdulHanan49/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ## 🤝 Connect with Me
 
