@@ -23,18 +23,18 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Full-Stack Software Engineer from **Lahore, Pakistan** — currently the **sole engineer at KCube Solutions**, building MixClip, an AI-powered video editing SaaS. I own the entire product: FastAPI backends, PostgreSQL schemas, React 18 frontends, and Azure deployments. Previously at **Visnext Software Solutions**, where I rebuilt Job Wallet's frontend and shipped 10+ production REST APIs with Celery, Redis & Stripe. FAST-NUCES CS graduate, Class of 2024.
+I'm a **Full-Stack Software Engineer** from Lahore, Pakistan 🇵🇰 who loves turning ideas into products that real people use.
 
-| | |
-|---|---|
-| 🔭 **Currently** | Building MixClip AI SaaS @ KCube Solutions |
-| 🛠️ **Stack** | React 18 · FastAPI · TypeScript · Vue 3 · PostgreSQL · Docker · Azure |
-| 🎓 **Education** | BS Computer Science — FAST-NUCES, 2024 |
-| 📊 **Stats** | 14+ months production · 3+ SaaS products · 24+ technologies |
-| 💬 **Ask me about** | React, FastAPI, TypeScript, Django REST, cloud infra |
-| 📫 **Contact** | hananaslam90@gmail.com |
+I thrive at the intersection of clean architecture and real-world delivery — designing APIs, shaping database schemas, building polished frontends, and wiring up cloud deployments, all in one flow. Over the past 14+ months I've shipped multiple production SaaS applications across diverse stacks — **React 18, FastAPI, TypeScript, Vue 3, Django REST, PostgreSQL, Docker, and Azure** — and I care as much about the code being maintainable as I do about it actually working.
+
+I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't just write code — they take ownership, ask the hard questions, and ship things that matter.
+
+---
+
+*Got an idea to build, a role to fill, or just want to talk tech?*
+*Reach out at **[hananaslam.com](https://hananaslam.com)** or let's connect on **[LinkedIn](https://linkedin.com/in/hanan-aslam-b6160723a)** — I'd love to hear from you* 👋
 
 ---
 
