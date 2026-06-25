@@ -9,8 +9,6 @@
   </h3>
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I'm a **Full-Stack Software Engineer** from Lahore, Pakistan 🇵🇰 who loves turning ideas into products that real people use.
@@ -19,8 +17,6 @@ I thrive at the intersection of clean architecture and real-world delivery — d
 
 I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't just write code — they take ownership, ask the hard questions, and ship things that matter.
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdulHanan49&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   &nbsp;
@@ -28,8 +24,6 @@ I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't ju
   &nbsp;
   <img src="https://img.shields.io/github/stars/AbdulHanan49?label=Stars&style=for-the-badge&color=0e75b6"/>
 </p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -83,8 +77,6 @@ I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't ju
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -92,15 +84,11 @@ I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't ju
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulHanan49&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHanan49&theme=tokyonight" alt="Contribution Graph" />
 </p>
-
----
 
 ## 🤝 Connect with Me
 
@@ -116,11 +104,3 @@ I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't ju
   <b>💡 Got an idea to build, a role to fill, or just want to talk tech?</b><br/>
   <i>I'm always open to exciting conversations — reach out and let's make something great together.</i>
 </p>
-
-<p align="center">
-  <a href="https://hananaslam.com">
-    <img src="https://img.shields.io/badge/→%20Visit%20hananaslam.com-7856FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
