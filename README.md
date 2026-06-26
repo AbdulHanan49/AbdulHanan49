@@ -13,7 +13,7 @@ I'm a **Full-Stack Software Engineer** from Lahore, Pakistan 🇵🇰 who loves 
 
 I thrive at the intersection of clean architecture and real-world delivery — designing APIs, shaping database schemas, building polished frontends, and wiring up cloud deployments, all in one flow. Over the past 14+ months I've shipped multiple production SaaS applications across diverse stacks — **React 18, FastAPI, TypeScript, Vue 3, Django REST, PostgreSQL, Docker, and Azure** — and I care as much about the code being maintainable as I do about it actually working.
 
-I'm a **FAST-NUCES CS graduate (2024)** who believes the best engineers don't just write code — they take ownership, ask the hard questions, and ship things that matter.
+I'm a **FAST-NUCES SE graduate** who believes the best engineers don't just write code — they take ownership, ask the hard questions, and ship things that matter.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdulHanan49&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
